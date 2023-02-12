@@ -39,7 +39,7 @@ Project is created with:
 
 - Writing basic queries in Sanity, similar to GraphQL queries
 
-- Setting up schemas: Product, Banner
+- Setting up schemas: Product
 
 #### Stripe
 
